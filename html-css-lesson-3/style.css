@@ -1,0 +1,13 @@
+.parent{
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+}
+
+.child{
+  font-size: 25px;
+}
+
+#child-red{
+  color: red;
+}

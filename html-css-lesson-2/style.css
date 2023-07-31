@@ -1,0 +1,29 @@
+.test {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+}
+
+.parent {
+  width: 600px;
+  height: 600px;
+  background-color: pink;
+}
+
+.child-1{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.child-2{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.child-3{
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+}
