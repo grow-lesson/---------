@@ -1,0 +1,23 @@
+.parent {
+  width: 600px;
+  height: 600px;
+  background-color: pink;
+}
+.child-1 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.child-2 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.child-3 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}

@@ -1,0 +1,28 @@
+.box {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(64, 198, 255);
+}
+.top {
+  width: 500px;
+  height: 200px;
+  background-color: red;
+}
+.middle {
+  display: flex;
+}
+.left {
+  width: 250px;
+  height: 100px;
+  background-color: rgb(221, 0, 255);
+}
+.right {
+  width: 250px;
+  height: 100px;
+  background-color: rgb(255, 255, 0);
+}
+.bottom {
+  width: 500px;
+  height: 200px;
+  background-color: green;
+}
